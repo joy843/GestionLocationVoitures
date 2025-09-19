@@ -1,4 +1,4 @@
-package org.example.demo;
+package app;
 
 import javafx.beans.property.ReadOnlyStringWrapper;
 import javafx.event.ActionEvent;
