@@ -1,4 +1,4 @@
-package org.example.demo;
+package app;
 
 public interface ReservationObserver {
     // Méthode de mise à jour de l'observateur de réservation
